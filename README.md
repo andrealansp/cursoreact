@@ -13,5 +13,5 @@
 
 <b>Dia - 22 / 08 / 20</b>
 
-<p>Criação de Aplicativo react por processo manual(Yarn) e por WebPack</p>
+<p>Criação de Aplicativo react por processo manual(Yarn) utilização do babel para a transpilação e configuração do WebPack para o gerenciamento do bundle.js</p>
 
