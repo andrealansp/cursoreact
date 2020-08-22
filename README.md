@@ -1,4 +1,4 @@
-# cursoreat
+# Curso de React - FAESA NEXT
 
 
 <p>Curso ministrado pelo professor Otávio Lube (https://github.com/otaviolube) pela FAESA - NEXT<p>
