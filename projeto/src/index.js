@@ -1,5 +1,9 @@
-import { soma, multiplicacao } from './soma';
+import React from 'react';
+import { render } from 'react-dom';
 
-console.log(soma(30,200));
+import App from "./App";
 
-console.log(multiplicacao(10,200));
+render(
+    <App/>,
+    document.getElementById('app')
+)
