@@ -1,0 +1,17 @@
+table{
+    width: 90vw;
+    padding: 10px;
+}
+
+table thead {
+    background-color: black;
+    color: white;
+}
+
+table thead td{
+    padding: 7px;
+}
+
+table tbody tr:nth-child(n){
+    background-color: white;
+}
