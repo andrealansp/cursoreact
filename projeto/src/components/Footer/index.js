@@ -2,8 +2,10 @@ import React from 'react';
 
 import './index.css';
 
-export default function Footer(props){
+export default function Footer(Props){
     return(
-        <h4>{props.text}</h4>
+        <footer>
+            <h4>Exercíco dia 29/08</h4>
+        </footer> 
     )
 }

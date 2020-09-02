@@ -1,0 +1,17 @@
+h1{
+    margin: 10px;
+    color: white;
+    font-size: 5em;
+}
+
+img{
+    float: left;
+    height: 15vh;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+header{
+    height: 15vh;
+    margin: 10px;
+}

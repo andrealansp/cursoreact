@@ -1,12 +1,13 @@
 import React from 'react';
 
 import './index.css';
+import logoStarWars from '../../assets/img/logoStarWars.png';
 
 export default function Header(props){
     return(
         <header>
-            <h1>{props.text}</h1>
-            {props.children}
+            <img src={logoStarWars}/>
+            <h1>Star Wars to Dev</h1>
         </header>
     )
 }

@@ -16,7 +16,7 @@ function App() {
     return (
 
         <>
-        <Header text = "Meu Cabeçalho Estilizado..." />
+        <Header />
 
         <PeopleTable />
 
