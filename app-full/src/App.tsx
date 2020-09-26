@@ -1,9 +1,12 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom'
+import Routes from './Routes';
+
 
 const App:React.FC = ()=> (
-  <h1>Nossa Aplicação Full</h1>
+  <BrowserRouter>
+  <Routes />
+  </BrowserRouter>
+  
 )
-
-
-
 export default App;
