@@ -6,7 +6,5 @@ import Routes from './Routes';
 const App:React.FC = ()=> (
   <BrowserRouter>
   <Routes />
-  </BrowserRouter>
-  
-)
+  </BrowserRouter>)
 export default App;
